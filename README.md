@@ -2,6 +2,8 @@
 
 **Resourcely** is a mental health companion chatbot developed as part of a project at the Georgia Institute of Technology (Aug 2024). It leverages natural language understanding and user-centered design to support students—especially those with ADHD—by providing wellness resources, mood tracking, and empathetic conversation support.
 
+Presentation and Application Walkthrough : https://docs.google.com/presentation/d/1zpJTfHX8XIiGl75McqoJE8HA2ni9VPlKTqjs0yK2d8s/edit?usp=sharing
+
 ## 💡 Project Overview
 
 Resourcely aims to help users manage their mental health through:
